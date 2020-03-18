@@ -1,6 +1,10 @@
-icon {
+div {
     float: left;
 }
 .school {
     color: green;
+}
+body {
+    background-image: url(image/images.jpg);
+    background-repeat: no-repeat;
 }
